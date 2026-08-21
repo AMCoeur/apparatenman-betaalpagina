@@ -1,0 +1,14 @@
+{
+  "name": "Apparatenman – Professionele Betaal- & Bedankpagina",
+  "version": "1.2.3",
+  "download_url": "https://raw.githubusercontent.com/AMCoeur/apparatenman-betaalpagina/main/witgoed-betaalpagina.zip",
+  "homepage": "https://apparatenman.nl/",
+  "author": "Apparatenman",
+  "requires": "6.0",
+  "tested": "6.6",
+  "requires_php": "7.4",
+  "last_updated": "2026-08-21 11:00:00",
+  "sections": {
+    "changelog": "<h4>1.2.3</h4><ul><li>Rode 'gastbestelling'-melding vervangen door vriendelijke welkomsttekst in huisstijl.</li></ul><h4>1.2.2</h4><ul><li>Handmatig aangemaakte bestellingen vervallen niet meer automatisch; de betaallink blijft geldig totdat er betaald is.</li></ul><h4>1.2.1</h4><ul><li>Dubbele adresvelden (Straat/Nummer/Toevoeging) verborgen op de betaalpagina.</li><li>Telefoonnummer is nu verplicht.</li></ul><h4>1.2.0</h4><ul><li>Automatische updates via GitHub toegevoegd.</li></ul><h4>1.1.0</h4><ul><li>Huisstijl + bedankpagina.</li></ul><h4>1.0.0</h4><ul><li>Eerste versie.</li></ul>"
+  }
+}
